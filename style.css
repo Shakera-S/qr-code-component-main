@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
+/*Sizes the main content, adds the rounded edges, and positions the content*/
 @media (min-width: 375px) {
   .container {
     display: grid;
@@ -17,6 +18,7 @@
   box-sizing: border-box;
 }
 
+/*Centers the content, applys the background color, font sizing, and family*/
 body {
   display: flex;
   flex-direction: column;
@@ -64,7 +66,7 @@ p {
 }
 
 .attribution {
-  padding-top: 2rem;
+  padding-top: 2.5rem;
   font-size: 11px;
   text-align: center;
 }
