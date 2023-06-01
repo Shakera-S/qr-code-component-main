@@ -32,6 +32,7 @@ body {
 .container {
   max-width: 300px;
   background-color: hsl(0, 0%, 100%);
+  box-shadow: 5px 10px 18px hsl(211, 25%, 83%);
 }
 
 .image {
@@ -45,22 +46,25 @@ img {
 }
 
 main {
-  padding: 0 1rem 1rem 1rem;
+  padding: 0 1.5rem 1rem 1rem;
 }
 
 h2 {
   text-align: center;
   font-weight: 700;
   padding-bottom: 1rem;
+  color: hsl(218, 44%, 22%)
 }
 
 p {
   text-align: center;
   color: hsl(220, 15%, 55%);
   font-weight: 400; 
+  padding-bottom: 1rem;
 }
 
 .attribution {
+  padding-top: 2rem;
   font-size: 11px;
   text-align: center;
 }
