@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,6 +26,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+Set up the HTML
+Add a CSS page
+Start by removing the pre-exsisting margins and paddings
+Add on the background, and text colors
+Import the font style and weights
+The minimum size is 357px
+Gotta know the difference between padding and margins, very important
+Round edges
+Shadows
 
 ### Built with
 
@@ -55,6 +64,8 @@ To see how you can add code snippets, see below:
   }
 }
 ```
+
+Never be afraid to look back on past projects to help you out with current ones.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
